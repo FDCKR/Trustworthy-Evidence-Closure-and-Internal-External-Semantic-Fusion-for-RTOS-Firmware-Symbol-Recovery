@@ -1,0 +1,44 @@
+[
+    {
+        "model":"MERCURY M6G",
+        "deviceURI":"evaluation_set/MERCURY_M6G/F400_M6G",
+        "arch":"MIPS:LE:32:default",
+        "base":"0x80008000"
+    },
+    {
+        "model":"MERCURY MW325R",
+        "deviceURI":"evaluation_set/MERCURY_MW325R/D114_MW325R",
+        "arch":"MIPS:LE:32:default",
+        "base":"0x80001000"
+    },
+    {
+        "model":"Phaser 4622",
+        "deviceURI":"evaluation_set/Phaser_4622/Phaser_4622",
+        "arch":"ARM:LE:32:v7",
+        "base":"0x100000"
+    },
+    {
+        "model":"Phaser 3635MFP",
+        "deviceURI":"evaluation_set/Phaser_3635/208AF01_3635",
+        "arch":"MIPS:BE:32:default",
+        "base":"0x8007ffa0"
+    },
+    {
+        "model":"D-Link DIR809",
+        "deviceURI":"evaluation_set/Dlink_dir809/9B9BE_dir809",
+        "arch":"MIPS:BE:32:default",
+        "base":"0x80000400"
+    },
+    {
+        "model":"Cisco Sx300",
+        "deviceURI":"evaluation_set/Cisco_3FC/3FC",
+        "arch":"ARM:LE:32:v7",
+        "base":"0x100000"
+    }
+    {
+        "model":"TP-Link WDR866N",
+        "deviceURI":"evaluation_set/TL-WR886N/A200_866n",
+        "arch":"MIPS:BE:32:default",
+        "base":"0x80001000"
+    }
+]
