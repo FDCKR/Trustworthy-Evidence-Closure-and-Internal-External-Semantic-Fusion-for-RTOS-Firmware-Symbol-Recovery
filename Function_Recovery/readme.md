@@ -1,1 +1,2 @@
 This folder contains samples for function-recovery.
+For arm-mips-1, this source code is used for optimization level verification, corresponding to arm1 and mips1 in the text. For arm-mips-2, this source code is used for inline optimization verification, corresponding to arm2 and mips2 in the text. To perform verification, you can use the official Ecos 3.0 build tools to build the image.
