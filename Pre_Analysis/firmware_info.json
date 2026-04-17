@@ -1,43 +1,43 @@
 [
     {
-        "model":"MERCURY M6G",
-        "deviceURI":"evaluation_set/MERCURY_M6G/F400_M6G",
+        "name":"MERCURY M6G",
+        "File":"M6G V3.0_2.0.8_Build 191121_Rel.76830n.bin"
         "arch":"MIPS:LE:32:default",
         "base":"0x80008000"
     },
     {
-        "model":"MERCURY MW325R",
-        "deviceURI":"evaluation_set/MERCURY_MW325R/D114_MW325R",
+        "name":"MERCURY MW325R",
+        "File":"mw325rv2.bin"
         "arch":"MIPS:LE:32:default",
         "base":"0x80001000"
     },
     {
-        "model":"Phaser 4622",
-        "deviceURI":"evaluation_set/Phaser_4622/Phaser_4622",
+        "name":"Phaser 4622",
+        "File":"PHASER4622"
         "arch":"ARM:LE:32:v7",
         "base":"0x100000"
     },
     {
-        "model":"Phaser 3635MFP",
-        "deviceURI":"evaluation_set/Phaser_3635/208AF01_3635",
+        "name":"Phaser 3635MFP",
+        "File":"PH3635_20.107.01.000.hd"
         "arch":"MIPS:BE:32:default",
         "base":"0x8007ffa0"
     },
     {
-        "model":"D-Link DIR809",
-        "deviceURI":"evaluation_set/Dlink_dir809/9B9BE_dir809",
+        "name":"D-Link DIR809",
+        "File":"890AX"
         "arch":"MIPS:BE:32:default",
         "base":"0x80000400"
     },
     {
-        "model":"Cisco Sx300",
-        "deviceURI":"evaluation_set/Cisco_3FC/3FC",
+        "name":"Cisco Sx300",
+        "File":"Sx300"
         "arch":"ARM:LE:32:v7",
         "base":"0x100000"
     }
     {
-        "model":"TP-Link WDR866N",
-        "deviceURI":"evaluation_set/TL-WR886N/A200_866n",
+        "name":"TP-Link WDR866N",
+        "File":"TL-866En"
         "arch":"MIPS:BE:32:default",
         "base":"0x80001000"
     }
